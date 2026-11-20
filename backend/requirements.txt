@@ -2,5 +2,5 @@ fastapi
 uvicorn[standard]
 python-multipart
 pydantic
-yt-dlp[default]>=2026.11.0
+yt-dlp[default]>
 openai-whisper
